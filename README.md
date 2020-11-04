@@ -162,10 +162,10 @@ La matrix correspondiente se trata de una propiedad que se encuentra en los obje
 
 La matriz de proyección obtenida ha sido:
 ```c#
--0.22489	0.00000	    -2.37884	96.81729
-0.00000	    -3.75828	0.00000	    49.23342
--0.00030	0.00000	    0.00003	    0.29511
-0.99556	    0.00000	    -0.09412	16.58720
+-0.22489  0.00000 -2.37884  96.81729
+ 0.00000  -3.75828  0.00000  49.23342
+-0.00030  0.00000  0.00003  0.29511
+ 0.99556   0.00000 -0.09412  16.58720
 ```
 
 El instante correspondiente ha sido el siguiente:
@@ -178,18 +178,18 @@ El instante correspondiente ha sido el siguiente:
 
 La matriz de modelo de la cámara es:
 ```c#
--0.22489	0.00000	    -2.37884	96.81729
-0.00000	    -3.75828	0.00000	    49.23342
--0.00030	0.00000	    0.00003	    0.29511
-0.99556	    0.00000	    -0.09412	16.58720
+-0.22489   0.00000  -2.37884   96.81729
+ 0.00000  -3.75828   0.00000   49.23342
+-0.00030   0.00000   0.00003    0.29511
+ 0.99556   0.00000  -0.09412   16.58720
 ```
 
 Por su parte, la matriz de vista es:
 ```c#
--0.22489	0.00000	    -2.37884	96.81729
-0.00000	    -3.75828	0.00000	    49.23342
--0.00030	0.00000	    0.00003	    0.29511
-0.99556	    0.00000	    -0.09412	16.58720
+-0.22489  0.00000 -2.37884  96.81729
+ 0.00000 -3.75828  0.00000  49.23342
+-0.00030  0.00000  0.00003  0.29511
+ 0.99556  0.00000 -0.09412  16.58720
 ```
 La escena sobre la que se ha trabajado es la misma que para el apartado anterior.
 
@@ -200,10 +200,10 @@ La escena sobre la que se ha trabajado es la misma que para el apartado anterior
 Se ha aplicado una rotación de 90º al personaje de Ethan resultando en la escena que se muestra en la imagen. La matrix correspondiente es:
 
 ```c#
--4.95208	0.02184	    -0.69022	13.90000
-0.02212	    4.99995	    -0.00053	5.00000
-0.69022	    -0.00358	-4.95213	57.40000
-0.00000	    0.00000	    0.00000	    1.00000
+-4.95208  0.02184 -0.69022  13.90000
+0.02212	  4.99995 -0.00053  5.00000
+0.69022	 -0.00358 -4.95213  57.40000
+0.00000	  0.00000  0.00000  1.00000
 ```
 
 <p align="center">
